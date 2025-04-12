@@ -12,8 +12,8 @@ This guide provides the essential steps to get the application up and running qu
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/gitaravenian/docker-master-test.git
-cd testing-docker
+git clone https://github.com/gitaravenian/ICandI.git
+cd 'IC&I'
 ```
 
 ### 2. Start the Application
